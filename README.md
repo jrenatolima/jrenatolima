@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78C1F3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=976FEC&size=35&center=true&vCenter=true&width=1000&lines=+Prazer+me+chamo+Jose_Lima,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=976FEC&size=35&center=true&vCenter=true&width=1000&lines=+Prazer+me+chamo+JoseLima,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 <p>Atualmente, .</p>
 <div style="display: flex;">
     <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrenatolimaI&hide_progress=true&theme=aura" alt="ilustração do status do github">
